@@ -1,0 +1,6 @@
+/home/chris/stick/Personal/Projects/BlockPuzzle/BlockPuzzle/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/chris/stick/Personal/Projects/BlockPuzzle/BlockPuzzle/bin/Release/BlockPuzzle.exe.config
+/home/chris/stick/Personal/Projects/BlockPuzzle/BlockPuzzle/bin/Release/BlockPuzzle.exe.mdb
+/home/chris/stick/Personal/Projects/BlockPuzzle/BlockPuzzle/bin/Release/BlockPuzzle.exe
+/home/chris/stick/Personal/Projects/BlockPuzzle/BlockPuzzle/obj/Release/BlockPuzzle.exe
+/home/chris/stick/Personal/Projects/BlockPuzzle/BlockPuzzle/obj/Release/BlockPuzzle.exe.mdb

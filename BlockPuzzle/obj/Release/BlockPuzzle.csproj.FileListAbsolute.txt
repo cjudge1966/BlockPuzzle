@@ -1,0 +1,11 @@
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\bin\Release\BlockPuzzle.exe.config
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\bin\Release\BlockPuzzle.exe
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\bin\Release\BlockPuzzle.pdb
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\obj\Release\BlockPuzzle.exe
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\obj\Release\BlockPuzzle.pdb
+F:\BlockPuzzle\BlockPuzzle\bin\Release\BlockPuzzle.exe.config
+F:\BlockPuzzle\BlockPuzzle\obj\Release\BlockPuzzle.exe
+F:\BlockPuzzle\BlockPuzzle\obj\Release\BlockPuzzle.pdb
+F:\BlockPuzzle\BlockPuzzle\bin\Release\BlockPuzzle.exe
+F:\BlockPuzzle\BlockPuzzle\bin\Release\BlockPuzzle.pdb
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\obj\Release\BlockPuzzle.csprojResolveAssemblyReference.cache

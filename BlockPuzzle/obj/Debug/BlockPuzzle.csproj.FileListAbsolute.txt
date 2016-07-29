@@ -1,0 +1,6 @@
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\bin\Debug\BlockPuzzle.exe.config
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\obj\Debug\BlockPuzzle.csprojResolveAssemblyReference.cache
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\bin\Debug\BlockPuzzle.exe
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\bin\Debug\BlockPuzzle.pdb
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\obj\Debug\BlockPuzzle.exe
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\obj\Debug\BlockPuzzle.pdb

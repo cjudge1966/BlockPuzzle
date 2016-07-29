@@ -1,0 +1,56 @@
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\bin\Release>BlockPuzzle.exe ?
+Usage: BlockPuzzle width height [method]
+        3 <= width <= 48, width of wall
+        1 <= height <= 10, height of wall
+        method, bit-mapped method to use, combine any of the following:
+                  1 - Leaves (Default)
+                  2 - Brute Force
+                  4 - Brute Force - Parallel
+                  8 - Known Good - Parallel
+                 16 - Known Good - Parallel, Pointers
+                 32 - Nested Loops
+                 64 - Nested Loops - Parallel
+                128 - Nested Loops - Parallel, Compact
+
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\bin\Release>BlockPuzzle.exe 27 5 255
+             count_Leaves: Milliseconds:        4, Count: 7958.
+         count_BruteForce: Milliseconds:     4513, Count: 7958.
+       count_P_BruteForce: Milliseconds:       81, Count: 7958.
+        count_P_KnownGood: Milliseconds:        6, Count: 7958.
+    count_P_KnownGood_ptr: Milliseconds:        6, Count: 7958.
+        count_NestedLoops: Milliseconds:       65, Count: 7958.
+      count_P_NestedLoops: Milliseconds:       37, Count: 7958.
+   count_P_Nested_Compact: Milliseconds:       20, Count: 7958.
+
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\bin\Release>BlockPuzzle.exe 48 3 253
+             count_Leaves: Milliseconds:       40, Count: 592050.
+       count_P_BruteForce: Milliseconds:     1783, Count: 592050.
+        count_P_KnownGood: Milliseconds:       19, Count: 592050.
+    count_P_KnownGood_ptr: Milliseconds:       19, Count: 592050.
+        count_NestedLoops: Milliseconds:       84, Count: 592050.
+      count_P_NestedLoops: Milliseconds:       19, Count: 592050.
+   count_P_Nested_Compact: Milliseconds:       36, Count: 592050.
+
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\bin\Release>BlockPuzzle.exe 48 4 253
+             count_Leaves: Milliseconds:       23, Count: 10178548.
+       count_P_BruteForce: Milliseconds:    27409, Count: 10178548.
+        count_P_KnownGood: Milliseconds:       20, Count: 10178548.
+    count_P_KnownGood_ptr: Milliseconds:       19, Count: 10178548.
+        count_NestedLoops: Milliseconds:       80, Count: 10178548.
+      count_P_NestedLoops: Milliseconds:       69, Count: 10178548.
+   count_P_Nested_Compact: Milliseconds:       39, Count: 10178548.
+
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\bin\Release>BlockPuzzle.exe 48 7 249
+             count_Leaves: Milliseconds:       20, Count: 83141220006.
+        count_P_KnownGood: Milliseconds:     8860, Count: 83141220006.
+    count_P_KnownGood_ptr: Milliseconds:     6986, Count: 83141220006.
+        count_NestedLoops: Milliseconds:     8052, Count: 83141220006.
+      count_P_NestedLoops: Milliseconds:     1671, Count: 83141220006.
+   count_P_Nested_Compact: Milliseconds:     8549, Count: 83141220006.
+
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\bin\Release>BlockPuzzle.exe 48 8 65
+             count_Leaves: Milliseconds:       42, Count: 1722438038790.
+      count_P_NestedLoops: Milliseconds:    35727, Count: 1722438038790.
+
+F:\Personal\Projects\BlockPuzzle\BlockPuzzle\bin\Release>BlockPuzzle.exe 48 10 1
+             count_Leaves: Milliseconds:       20, Count: 806844323190414.
