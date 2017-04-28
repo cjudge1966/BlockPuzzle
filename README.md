@@ -15,7 +15,7 @@ sized wall (48 x 10) in milliseconds.
 As always, I include a lot of comments because I sincerely hope that this can
 be instructional for someone.
 
-Running "BlockPuzzle.exe ?" produces usage statement including bat values for the
+Running "BlockPuzzle.exe ?" produces usage statement including bit values for the
 available methods. Example, "BlockPuzzle.exe 27 5 9" calculates the answer for
 a 27 by 5 wall using methods 1 and 8.
 
